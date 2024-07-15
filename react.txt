@@ -1,2 +1,6 @@
 import { default as React } from 'https://cdn.skypack.dev/react@15.4.2';
 import { default as ReactDOM } from 'https://cdn.skypack.dev/react-dom@15.4.2';
+
+
+https://cdnjs.cloudflare.com/ajax/libs/react/18.2.0/umd/react.production.min.js
+https://cdnjs.cloudflare.com/ajax/libs/react-dom/18.2.0/umd/react-dom.production.min.js
